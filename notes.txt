@@ -1,0 +1,16 @@
+CRITERIA
+
+Visual Web Page
+Web page highlights at least three of your favourite things (music, art, baking)
+Heading, explanation, image and link for each favourite thing
+Links open in a new tab
+At least one list: <ul> or <ol>
+Centered, fixed-width content
+Evidence of some styling (colors, fonts, etc.)
+
+HTML & CSS Code
+Proper HTML Page Structure is used - <!DOCTYPE html>, <html>, <head>, <body>, …
+Appropriate use of html elements: elements are used for their intended purpose
+All CSS is done using an external stylesheet - <link>
+Good looking code: indentation, spacing, etc. (use Prettier!)
+
